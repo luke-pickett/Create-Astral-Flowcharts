@@ -1,4 +1,4 @@
-```
+```mermaid
 flowchart LR
     A[Cobble] --> B
     B[Smelter] --> C
